@@ -1,6 +1,6 @@
 print("USEFUL INFO: in order to use this guide, you need to use the color code of the resistor. \n"
-      "In other words, this guide won't work for potensiometers. \n"
-      "The colors on the resistor should be red from left to right. \n"
+      "Which means, this guide won't work for potensiometers. \n"
+      "The colors on the resistor should be read from left to right. \n"
       "If you don't know which direction you should begin from, \nthere are 2 telltale signs:\n"
       "1. If there is a gap between two of the outer colors, start from the opposite end.\n"
       "2. If one of the outermost colors is either gold or silver, start from the other end.\n"
